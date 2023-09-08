@@ -1,0 +1,16 @@
+//
+//  debug.xcconfig
+//  Books
+//
+//  Created by Nilesh Prajapati on 2023/09/06.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "base.xcconfig"
+
+API_KEY = ${API_KEY}
+SECRET_KEY = ${SECRET_KEY}
+BASE_URL = ${BASE_URL}
+APP_ID = ${APP_ID}

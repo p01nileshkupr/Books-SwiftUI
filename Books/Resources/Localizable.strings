@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Books
+
+  Created by Nilesh Prajapati on 2023/09/06.
+  
+*/
+
+//Books list
+"BooksListTitle" = "Books";
+"BooksListMenuTitle" = "Sort";
+"BooksListMenu1Title" = "None";
+"BooksListMenu2Title" = "Title";
+"BooksListMenu3Title" = "Rank";
+"BooksListMenuCancel" = "Cancel";
+"BooksListActivityIndicatorTitle" = "Loading...";
+"BooksListSearchBarPlaceholderText" = "Search book by title";
+"BooksListRefreshButtonTitleText" = "Refresh";
+
+//Book Details
+"BookDetailsTitle" = "Details";
+"BookDetailsTitleText" = "Details";
+"BookDetailsRankTitleText" = "Rank";
+"BookDetailsGenreTitleText" = "Genre";
+"BookDetailsDirectorTitleText" = "Director";
+"BookDetailsWritersTitleText" = "Writers";
+"BookDetailsShortDescriptionTitleText" = "Short Description";
+"BookDetailsContributorTitleText" = "Contributor";
+"BookDetailsCreatedDateTitleText" = "Created Date";

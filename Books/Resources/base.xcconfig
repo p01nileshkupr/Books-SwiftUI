@@ -1,0 +1,14 @@
+//
+//  base.xcconfig
+//  Books
+//
+//  Created by Nilesh Prajapati on 2023/09/06.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_ID = a536f748-0e70-4138-bc52-51df6ea97e10
+BASE_URL = https:/${}/api.nytimes.com/
+API_KEY = fLTQbEbIZwvPICAZI1UuzKHT3SL2erHc
+SECRET_KEY = mHGJdneCBNgKwxZq
